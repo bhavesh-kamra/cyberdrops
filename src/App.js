@@ -13,6 +13,7 @@ import Howitworks from "./components/Howitworks";
 import Team from "./components/Team";
 import Faq from "./components/Faq";
 import MyFooter from "./components/MyFooter";
+import RoadMap from "./components/RoadMap";
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
       <Whatwedo />
       <Howitworks />
       <Team />
+      <RoadMap/>
       <Faq />
       <MyFooter/>
       
